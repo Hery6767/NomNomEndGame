@@ -1,0 +1,6 @@
+﻿**/node_modules
+**/npm-debug.log
+**/.env
+**/android/app/build/
+**/android/.gradle/
+**/ios/Pods/
